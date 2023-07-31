@@ -1,0 +1,11 @@
+
+header{
+background-color: #383D58;
+display: flex;
+justify-content: space-around;
+font-size: 24px;
+}
+.cabeçalho-lista-item{
+display: inline-block;
+margin: 0 28px;
+}
